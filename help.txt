@@ -1,0 +1,11 @@
+Khai báo Router
+Khai báo Controller
+Khai báo Model
+Khai báo Request
+Khai báo View
+Gắn link trong sidebar_menu
+Chuẩn bị hình ảnh ban đầu, nhìn cho sướng thôi
+Cấu hình file cấu hình config/zvn.php
+Thêm CKEDITOR (nếu bảng nào cần comment)
+       cấu hình trong zvn.php
+       kéo JS của CKeditor vào script.blade.php trong elements của admin
